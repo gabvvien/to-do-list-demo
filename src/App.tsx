@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          gusto ko na magleague
+          hmu on ig @gabvvien
         </p>
       </div>
       <p className="read-the-docs">
